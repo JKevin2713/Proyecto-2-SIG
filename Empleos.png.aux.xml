@@ -1,0 +1,18 @@
+<PAMDataset>
+  <GeoTransform> -8.5896912189999995e+01,  8.2292517999999863e-03,  0.0000000000000000e+00,  1.1212548140000001e+01,  0.0000000000000000e+00, -7.4758428500000026e-03</GeoTransform>
+  <Metadata>
+    <MDI key="SOFTWARE">GRASS GIS 8.2.0 with GDAL 3.4.3</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>Empleos</Description>
+    <NoDataValue le_hex_equiv="000000000000F8FF">nan</NoDataValue>
+    <Metadata>
+      <MDI key="COLOR_TABLE_RULES_COUNT">5</MDI>
+      <MDI key="COLOR_TABLE_RULE_RGB_0">6.988612e+00 3.055742e+02 0 191 191 0 255 0</MDI>
+      <MDI key="COLOR_TABLE_RULE_RGB_1">3.055742e+02 6.041598e+02 0 255 0 255 255 0</MDI>
+      <MDI key="COLOR_TABLE_RULE_RGB_2">6.041598e+02 9.027454e+02 255 255 0 255 127 0</MDI>
+      <MDI key="COLOR_TABLE_RULE_RGB_3">9.027454e+02 1.201331e+03 255 127 0 191 127 63</MDI>
+      <MDI key="COLOR_TABLE_RULE_RGB_4">1.201331e+03 1.499917e+03 191 127 63 200 200 200</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
